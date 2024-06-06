@@ -8,3 +8,6 @@
 - <b>[What is Open ID Connect?](https://github.com/earkevin11/IT-Diagrams/assets/104326475/709544e7-ab3b-4144-9c0f-f53134a82d14)</b>
 - <b>[Cookies](https://github.com/earkevin11/IT-Diagrams/assets/104326475/f8923089-3a04-4898-be69-b7729dbb24d4)</b>
 - <b>[Session-Based Authentication](https://github.com/earkevin11/IT-Diagrams/assets/104326475/578d54b7-b5a3-4e92-b944-41146d13c884)</b>
+- <b>[What is Load Balancing?]
+- <b>[What is Rate Limiting?]
+- <b>[Methods to Secure Application Programming Interfaces]
